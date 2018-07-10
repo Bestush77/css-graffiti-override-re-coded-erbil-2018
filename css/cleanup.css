@@ -1,6 +1,6 @@
 /* write your override styles here */
 #wall #tag-2 {
-  background-color: green;
+  position: relative;
 }
 
 #wall #tag-3 {
