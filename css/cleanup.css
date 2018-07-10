@@ -10,6 +10,7 @@
 
 #wall #tag-3 .slick {
   color: purple;
+  padding: 250px;
 }
 
 .parent #tag-4{
@@ -26,6 +27,5 @@ margin: 900px;
 
 
 .parent #tag-6 {
-  padding: 250px;
   padding :600px;
 }
