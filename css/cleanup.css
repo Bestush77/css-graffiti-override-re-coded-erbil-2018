@@ -10,17 +10,17 @@
   color: purple;
 }
 
-.parent #tag-4{
+.parent .tag-4{
   border-width: 125px;
 }
 
-.parent #tag-5 {
+.parent .tag-5 {
 font-size: 99px;
 display: none;
   
 }
 
 
-.parent #tag-6 {
+.parent .tag-6 {
   padding :600px;
 }
