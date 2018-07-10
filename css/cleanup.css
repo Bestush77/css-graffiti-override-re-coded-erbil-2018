@@ -4,6 +4,8 @@
 }
 #wall #tag-2 {
   background-color: red;
+  z-index:8;
+  
 }
 
 #wall #tag-3 .slick {
