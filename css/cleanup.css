@@ -16,7 +16,7 @@
   border-width: 125px;
 }
 
-.parent .parent #tag-5 {
+.slick #tag-5 {
 z-index: 8;
 background-color: red;
 display: none;
