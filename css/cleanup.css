@@ -10,3 +10,7 @@
 .parent #tag-4{
   border-width: 125px;
 }
+
+.parent #tag-5 {
+  color: pink;
+}
