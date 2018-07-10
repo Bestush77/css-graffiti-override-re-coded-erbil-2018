@@ -2,11 +2,11 @@
 #wall .tag-1 {
   background-color: green;
 }
-#wall #tag-2 {
+#wall .tag-2 {
   position: relative;
 }
 
-#wall #tag-3 .slick {
+#wall .tag-3 .slick {
   color: purple;
 }
 
